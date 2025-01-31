@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🇬🇧 Originally from the UK, I studied at the University of Oxford and now call Paris home. 
+Before diving into tech, I spent 5 years as a Global Brand Marketing Manager for FMCG companies.
+🔭
