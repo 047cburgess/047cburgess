@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Before diving into tech, I spent 5 years as a Global Brand Marketing Manager for FMCG companies.
+
 Originally from the UK, I studied at the University of Oxford and now call Paris home.
 
 
