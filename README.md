@@ -29,6 +29,6 @@ When I'm not coding, you'll find me exploring wellbeing practices, working on cr
 - **Collaboration**: Thriving in École 42's peer-learning environment through knowledge sharing and team problem-solving
 - **Core Values**: Driven by empathy, curiosity, and rigour in everything I do
 
-## 📫 Let's Connect
+## 💌 Let's Connect
 
 - **LinkedIn**: [caseycb](https://www.linkedin.com/in/caseycb/)
