@@ -1,21 +1,32 @@
-## Hi there 👋 I'm a student at 42 Paris.
+# Hi there, I'm Casey 👋
 
-<!--
-**047cburgess/047cburgess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm currently a student at **École 42**, transitioning from a 5-year career in **Global Brand Marketing** focused on product innovation and renovation across Fragrance, Ice Cream, and Stationery sectors. 
 
-Here are some ideas to get you started:
+When I'm not coding, you'll find me exploring wellbeing practices, working on creative projects, enjoying classical music, or spending time with animals. 🎵🐾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Before diving into tech, I spent 5 years as a Global Brand Marketing Manager for FMCG companies.
+## 💻 Skills & Technologies
 
-Originally from the UK where I studied at the University of Oxford, I now call Paris home.
+### Languages
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
+### Tools & Technologies
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+### Currently Exploring
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+## 🎯 What I Bring
+
+- **Marketing & Business Acumen**: 5 years driving global brand strategy across fragrance, ice cream, and stationery sectors
+- **User-Centric Development**: Bridging technical implementation with consumer needs and business objectives
+- **Collaborative Excellence**: Thriving in École 42's peer-learning environment through knowledge sharing and team problem-solving
+- **Growth Mindset**: Driven by curiosity, empathy, and a commitment to continuous improvement
+
+## 📫 Let's Connect
+
+- **LinkedIn**: [caseycb](https://www.linkedin.com/in/caseycb/)
