@@ -1,6 +1,6 @@
 # Hi there, I'm Casey 👋
 
-## 🚀 About Me
+## 🧚🏼‍♀️ About Me
 I'm currently a student at **École 42**, transitioning from a 5-year career as an **Innovation Manager** in Global Brand Marketing across Fragrance, Ice Cream, and Stationery sectors.
 
 I discovered coding through a desire to learn something new. What drew me in, and keeps me hooked, is the endless opportunity for creative problem-solving and meaningful impact. Every project is a puzzle to solve, a system to understand, and an opportunity to learn something new.
@@ -22,12 +22,12 @@ When I'm not coding, you'll find me exploring wellbeing practices, working on cr
 ### Currently Exploring
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 🎯 What I Bring
+## 🎁 What I Bring
 
 - **Marketing & Business Acumen**: 5 years driving global brand strategy and product development with multi-cultural and cross-functional teams
 - **User-Centric Development**: Bridging technical implementation with consumer needs and business objectives
-- **Collaborative Excellence**: Thriving in École 42's peer-learning environment through knowledge sharing and team problem-solving
-- **Growth Mindset**: Driven by curiosity, empathy, and a commitment to continuous improvement
+- **Collaboration**: Thriving in École 42's peer-learning environment through knowledge sharing and team problem-solving
+- **Core Values**: Driven by empathy, curiosity, and rigour in everything I do
 
 ## 📫 Let's Connect
 
