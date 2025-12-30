@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 Before diving into tech, I spent 5 years as a Global Brand Marketing Manager for FMCG companies.
 
-Originally from the UK, I studied at the University of Oxford and now call Paris home.
+Originally from the UK where I studied at the University of Oxford, I now call Paris home.
 
 
