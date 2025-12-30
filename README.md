@@ -1,9 +1,11 @@
 # Hi there, I'm Casey 👋
 
 ## 🚀 About Me
-I'm currently a student at **École 42**, transitioning from a 5-year career in **Global Brand Marketing** focused on product innovation and renovation across Fragrance, Ice Cream, and Stationery sectors. 
+I'm currently a student at **École 42**, transitioning from a 5-year career as an **Innovation Manager** in Global Brand Marketing across Fragrance, Ice Cream, and Stationery sectors.
 
-When I'm not coding, you'll find me working on creative projects, exploring wellbeing practices, enjoying classical music, or spending time with animals. 🎵🐾
+I discovered coding through a desire to learn something new. What drew me in, and keeps me hooked, is the endless opportunity for creative problem-solving and meaningful impact. Every project is a puzzle to solve, a system to understand, and an opportunity to learn something new.
+
+When I'm not coding, you'll find me exploring wellbeing practices, working on creative projects, enjoying classical music, or spending time with animals. 🎵🐾
 
 ## 💻 Skills & Technologies
 
