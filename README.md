@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm currently a student at **École 42**, transitioning from a 5-year career in **Global Brand Marketing** focused on product innovation and renovation across Fragrance, Ice Cream, and Stationery sectors. 
 
-When I'm not coding, you'll find me exploring wellbeing practices, working on creative projects, enjoying classical music, or spending time with animals. 🎵🐾
+When I'm not coding, you'll find me working on creative projects, exploring wellbeing practices, enjoying classical music, or spending time with animals. 🎵🐾
 
 ## 💻 Skills & Technologies
 
@@ -22,7 +22,7 @@ When I'm not coding, you'll find me exploring wellbeing practices, working on cr
 
 ## 🎯 What I Bring
 
-- **Marketing & Business Acumen**: 5 years driving global brand strategy across fragrance, ice cream, and stationery sectors
+- **Marketing & Business Acumen**: 5 years driving global brand strategy and product development with multi-cultural and cross-functional teams
 - **User-Centric Development**: Bridging technical implementation with consumer needs and business objectives
 - **Collaborative Excellence**: Thriving in École 42's peer-learning environment through knowledge sharing and team problem-solving
 - **Growth Mindset**: Driven by curiosity, empathy, and a commitment to continuous improvement
