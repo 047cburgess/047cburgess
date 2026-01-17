@@ -1,9 +1,11 @@
 # Hi there, I'm Casey 👋
 
 ## 🧚🏼‍♀️ About Me
-I'm currently a student at **École 42**, transitioning from a 5-year career as an **Innovation Manager** in Global Brand Marketing across Fragrance, Ice Cream, and Stationery sectors.
+I'm a student at École 42 Paris, about 2 years into a career transition from 5 years in global marketing product development to software development.
 
-I discovered coding through a desire to learn something new. What drew me in, and keeps me hooked, is the endless opportunity for creative problem-solving and meaningful impact. Every project is a puzzle to solve, a system to understand, and an opportunity to learn something new.
+I discovered coding during a Discovery Piscine for women at 42, and what hooked me was the creative problem solving, endless learning, and opportunity to follow my curiosity.
+
+I'm currently looking for a 6-month internship where I can learn from experienced developers while contributing a product and user mindset, a collaborative approach, and continuing to grow as a developer.
 
 When I'm not coding, you'll find me exploring wellbeing practices, working on creative projects, enjoying classical music, or spending time with animals. 🎵🐾
 
@@ -22,13 +24,12 @@ When I'm not coding, you'll find me exploring wellbeing practices, working on cr
 ### Currently Exploring
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 🎁 What I Bring
+## 🎁 What I Bring From Marketing
 
-- **Marketing & Business Acumen**: 5 years driving global brand strategy and product development with multi-cultural and cross-functional teams
-- **User-Centric Development**: Bridging technical implementation with consumer needs and business objectives
-- **Collaboration**: Thriving in École 42's peer-learning environment through knowledge sharing and team problem-solving
-- **Core Values**: Driven by empathy, curiosity, and rigour in everything I do
+- **Product thinking:** 5 years translating user needs into solutions across cross-functional teams
+- **Understanding users:** Experience researching and designing for real people, not just technical requirements  
+- **Collaboration:** Comfortable working in teams - both from marketing and École 42's peer-learning environment
+- **Learning mindset:** Career-changer who's proven I can pick up new skills quickly
 
 ## 💌 Let's Connect
-
-- **LinkedIn**: [caseycb](https://www.linkedin.com/in/caseycb/)
+Looking for a 6-month internship in fullstack development | Paris-based | Available from February 2026
