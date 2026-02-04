@@ -32,6 +32,6 @@ When I'm not coding, you'll find me exploring wellbeing practices, working on cr
 - **Learning mindset:** Career-changer who's proven I can pick up new skills quickly
 
 ## 💌 Let's Connect
-Looking for a 6-month internship in fullstack development | 📍 Paris-based | Available from February 2026  
+Looking for a 6-month internship | 📍 Paris-based | Available from February 2026  
 🔗 [LinkedIn](https://www.linkedin.com/in/caseycb) | 📨 Email: caseychristinaburgess@gmail.com
 
