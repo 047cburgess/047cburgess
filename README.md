@@ -17,6 +17,7 @@ When I'm not coding, you'll find me exploring wellbeing practices, working on cr
 
 ### Tools & Technologies
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Currently Exploring
