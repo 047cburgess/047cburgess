@@ -3,7 +3,7 @@
 ## 🧚🏼‍♀️ About Me
 I'm a student at École 42 Paris, changing career from 5 years in global marketing product development to software development.
 
-I discovered coding during a Discovery Piscine for women at 42, and what hooked me was the creative problem solving, endless learning, and opportunity to follow my curiosity. I then carried on learning with Harvard's CS50x Introduction to Computer Science, took part in Apple's Foundation Developer Program, and completed the Piscine of Ecole 42.
+I discovered coding during a Discovery Piscine for women at 42, and what hooked me was the problem solving, endless learning, and opportunity to follow my curiosity. I then carried on learning with Harvard's CS50x Introduction to Computer Science, took part in Apple's Foundation Developer Program, and completed the Piscine of Ecole 42.
 
 When I'm not coding, you'll find me exploring wellbeing practices, working on creative projects, enjoying classical music, or spending time with animals. 🎵🐾
 
@@ -25,10 +25,10 @@ When I'm not coding, you'll find me exploring wellbeing practices, working on cr
 
 ## 🎁 What I Bring From Marketing
 
-- **Product thinking:** 5 years translating user needs into solutions across cross-functional teams
-- **Understanding users:** Experience researching and designing for real people, not just technical requirements  
-- **Collaboration:** Comfortable working in teams - both from marketing and École 42's peer-learning environment
-- **Learning mindset:** Career-changer who's proven I can pick up new skills quickly
+- **Product thinking:** 5 years translating user needs into product solutions in global brand innovation
+- **Understanding users:** Experience researching and designing for real people
+- **Collaboration:** Comfortable working in teams - leading cross-functional teams in marketing and École 42's peer-learning environment
+- **Growth mindset:** Career-changer who's proven I can learn new skills quickly
 
 ## 💌 Let's Connect
 🔗 [LinkedIn](https://www.linkedin.com/in/caseycb) | 📨 Email: caseychristinaburgess@gmail.com |  📍 Paris-based
