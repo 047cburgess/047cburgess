@@ -3,7 +3,7 @@
 ## 🧚🏼‍♀️ About Me
 I'm a student at École 42 Paris, changing career from 5 years in global marketing product development to software development.
 
-I discovered coding during a Discovery Piscine for women at 42, and what hooked me was the problem solving, endless learning, and opportunity to follow my curiosity. I then carried on learning with[...]
+I discovered coding during a Discovery Piscine for women at 42, and what hooked me was the creative problem solving, endless learning, and opportunity to follow my curiosity. I then continued with Harvard's CS50x Introduction to Computer Science, took part in Apple's Foundation Developer Program, and completed the Piscine of Ecole 42.
 
 When I'm not coding, you'll find me exploring wellbeing practices, working on creative projects, enjoying classical music, or spending time with animals. 🎵🐾
 
