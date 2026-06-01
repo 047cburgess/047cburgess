@@ -3,7 +3,7 @@
 ## 🧚🏼‍♀️ About Me
 I'm a student at École 42 Paris, changing career from 5 years in global marketing product development to software development.
 
-I discovered coding during a Discovery Piscine for women at 42, and what hooked me was the problem solving, endless learning, and opportunity to follow my curiosity. I then carried on learning with Harvard's CS50x Introduction to Computer Science, took part in Apple's Foundation Developer Program, and completed the Piscine of Ecole 42.
+I discovered coding during a Discovery Piscine for women at 42, and what hooked me was the problem solving, endless learning, and opportunity to follow my curiosity. I then carried on learning with[...]
 
 When I'm not coding, you'll find me exploring wellbeing practices, working on creative projects, enjoying classical music, or spending time with animals. 🎵🐾
 
@@ -19,6 +19,7 @@ When I'm not coding, you'll find me exploring wellbeing practices, working on cr
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
 ### Currently Exploring
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
