@@ -30,8 +30,7 @@ When I'm not coding, you'll find me exploring wellbeing practices, working on cr
 
 ## 🎁 What I Bring From Marketing
 
-- **Product thinking:** 5 years translating user needs into product solutions in global brand innovation
-- **Understanding users:** Experience researching and designing for real people
+- **Product & User thinking:** 5 years translating user needs into product solutions in global brand innovation
 - **Collaboration:** Comfortable working in teams - leading cross-functional teams in marketing and École 42's peer-learning environment
 - **Growth mindset:** Career-changer who's proven I can learn new skills quickly
 
